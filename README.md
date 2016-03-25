@@ -5,7 +5,7 @@
 
 2) checkres looks for errros in pdb file, makes sure all res agree with templates (eg, adds hydrogens)
 
-3) opt-res   is control program for splitting optimization (or refinemet) into small jobs
+3) opt-res   is control program for splitting optimization (or refinemet) into small jobs; first calcs cam-b3lyp/6-31(+)G*/amber
 
 4) reenter   collects outputs from calcs initiated by opt-res and updates hin file
 
