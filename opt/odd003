@@ -1,0 +1,12 @@
+#!/bin/bash
+#PBS -l walltime=24:00:00
+#PBS -l vmem=3000MB
+#PBS -q normal
+#PBS -l ncpus=4
+#PBS -l jobfs=1000MB
+#PBS -l software=g09
+#PBS -wd
+
+module load gaussian
+
+sh ILE7-G.com      

@@ -1,0 +1,35 @@
+      parameter (m=30000, mmol=300, mres=100, mc=160,
+     $		  mcon=12, mext=50, mimage=54, mh=7+mimage)
+
+      real*8 x(m),y(m),z(m),q(m),qres(mres,mmol)
+      real*8 xi(m,mimage),yi(m,mimage),zi(m,mimage),rotim(12,mimage)
+      real*4 bfact(m)
+      integer 	nares(mres,mmol),iares(mres,mmol),jares(mres,mmol),
+     $		molend(mmol),molind(mmol),nres(mmol),
+     $		nat(m),ares(m),amol(m),
+     $		atnumb(m),ncon(m),icon(mcon,m)
+      integer*2	aniso(6,m)
+      logical	  readhin,hisc2mg,hissel(m,mimage),hisbond
+      character*1 scon(mcon,m)
+      character*2 ats(m),attype(m)
+      character*2 atsym(-1:103)
+      character*5 atname(m)
+      character*6 flag(m)
+      character*12 resname(mres,mmol)
+      character*(mc) header(mh)
+      character*15 param(mext)
+
+      common /hinc/ resname,header,ats,scon,atname,attype,flag,param
+      common /hinx/ x,y,z,q,qres,bfact,qtot
+      common /hing/ xi,yi,zi
+      common /hingc/rinscr2,nimage,hissel
+      common /hingd/rotim
+      common /hcell/ alen,blen,clen,alpha,beta,gamma,
+     $		    boxvecs(12),boxvecsinv(12)
+      common /hinn/ nat,ares,amol,atnumb,ncon,icon
+      common /hini/ nares,iares,jares,nres,molend,molind,nmol,natom,
+     $		    nhead,nsel,lstpro,aniso
+      common /atsymb/ atsym
+      common /const/ au,au2ev,pi,pre
+
+C      external	  readhin,hisc2mg,hissel

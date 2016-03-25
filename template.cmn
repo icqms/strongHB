@@ -1,0 +1,17 @@
+      parameter (mt1=1, mt2=200, ma=300)
+      integer ndef(mt2),nhdef(mt2),dncon(ma,mt2),
+     $		dicon(mcon,ma,mt2),natdef(ma,mt2)
+      real*8	  dq(ma,mt2),dx(ma,mt2),dy(ma,mt2),dz(ma,mt2)
+      character*3 name(mt2)
+      character*5 dname(ma,mt2)
+      character*2 ds(ma,mt2),dtype(ma,mt2)
+      character*1 dscon(mcon,ma,mt2)
+      character*6 dflag(ma,mt2)
+      character*40 resfname
+      logical windows
+
+      common /templ1/ dq,dx,dy,dz,ndef,nhdef,dncon,dicon,natdef
+      common /templ2/ name,dname,ds,dtype,dscon,dflag
+
+      data windows /.true./
+

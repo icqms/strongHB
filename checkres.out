@@ -1,0 +1,149 @@
+  READING: 2y3lc3oe.hin                            
+ number of atoms=    444
+ number of mols=     4
+ number of res=     32
+ number of charged res=   8 tot charge=  -0.000000 without roundoff=   0
+ nber images=   54 inscribed radius=   4.735
+  WRITING: jnk.hin
+ natoms,nimages,nmol=         444          54           4
+ 
+ SECOND PASS TO ADD TERMINATING HYD RESIDUES AND HXT ATOMS
+ 
+  WRITING: jnk1.hin
+ natoms,nimages,nmol=         444          54           4
+ selecting res MeT 1 - A      1   1 q= 1.000 image=  1
+ selecting res MeT 1 - B      1   2 q= 1.000 image=  1
+ selecting res MeT 1 - C      1   3 q= 1.000 image=  1
+ selecting res ALa 8 - C      8   3 q=-1.000 image=  1
+ selecting res ALa 8 - G      8   4 q=-1.000 image=  1
+ 
+ nber of complete, chain OK, chain broken, missing residues:
+ ACT    0    0    0    0
+ AlA    0    0    0    0
+ ALa    4    0    0    0
+ ALA    0    0    0    0
+ Arg    0    0    0    0
+ ArG    0    0    0    0
+ ARg    0    0    0    0
+ ARG    0    0    0    0
+ AsN    0    0    0    0
+ ASn    0    0    0    0
+ ASN    0    0    0    0
+ aSP    0    0    0    0
+ Asp    0    0    0    0
+ AsP    0    0    0    0
+ ASp    0    0    0    0
+ ASP    0    0    0    0
+ BC1    0    0    0    0
+ BCL    0    0    0    0
+ BCr    0    0    0    0
+ BCR    0    0    0    0
+ BP1    0    0    0    0
+ BPH    0    0    0    0
+  CA    0    0    0    0
+ CHL    0    0    0    0
+ CL1    0    0    0    0
+ CL2    0    0    0    0
+ CLa    0    0    0    0
+ CLb    0    0    0    0
+ CLc    0    0    0    0
+ CLd    0    0    0    0
+ CLe    0    0    0    0
+ CLf    0    0    0    0
+ CLg    0    0    0    0
+ CLh    0    0    0    0
+ CLi    0    0    0    0
+ COP    0    0    0    0
+ cYs    0    0    0    0
+ cYS    0    0    0    0
+ CyS    0    0    0    0
+ CYs    0    0    0    0
+ CYS    0    0    0    0
+ EDO    0    0    0    0
+  FE    0    0    0    0
+ FS4    0    0    0    0
+ Gln    0    0    0    0
+ GlN    0    0    0    0
+ GLn    0    0    0    0
+ GLN    0    0    0    0
+ gLU    0    0    0    0
+ Glu    0    0    0    0
+ GlU    0    0    0    0
+ GLu    0    0    0    0
+ GLU    0    0    0    0
+ GlY    0    0    0    0
+ GLy    0    0    0    0
+ GLY    8    0    0    0
+ hIs    0    0    0    0
+ hIS    0    0    0    0
+ HiS    0    0    0    0
+ HIs    0    0    0    0
+ HIS    0    0    0    0
+ Hoh    0    0    0    0
+ HOH    0    0    0    0
+ HYD    0    0    0    0
+ IlE    0    0    0    0
+ ILe    0    0    0    0
+ ILE    4    0    0    0
+ LeU    0    0    0    0
+ LEu    0    0    0    0
+ LEU    0    0    0    0
+ LHa    0    0    0    0
+ LHb    0    0    0    0
+ LHG    0    0    0    0
+ LMa    0    0    0    0
+ LMb    0    0    0    0
+ LMG    0    0    0    0
+ Lys    0    0    0    0
+ LyS    0    0    0    0
+ LYs    0    0    0    0
+ LYS    0    0    0    0
+ MeT    4    0    0    0
+ MEt    0    0    0    0
+ MET    0    0    0    0
+  NA    0    0    0    0
+ NO3    0    0    0    0
+ PhE    0    0    0    0
+ PHe    0    0    0    0
+ PHE    0    0    0    0
+ PHY    0    0    0    0
+ PO4    0    0    0    0
+ PQn    0    0    0    0
+ PQN    0    0    0    0
+ PrO    0    0    0    0
+ PRo    0    0    0    0
+ PRO    0    0    0    0
+ Ser    0    0    0    0
+ SeR    0    0    0    0
+ SEr    0    0    0    0
+ SER    0    0    0    0
+ SOD    0    0    0    0
+ SPO    0    0    0    0
+ ThR    0    0    0    0
+ THr    0    0    0    0
+ THR    0    0    0    0
+ tRp    0    0    0    0
+ tRP    0    0    0    0
+ TrP    0    0    0    0
+ TRp    0    0    0    0
+ TRP    0    0    0    0
+ TyR    0    0    0    0
+ TYr    0    0    0    0
+ TYR    0    0    0    0
+ U10    0    0    0    0
+ Val    0    0    0    0
+ VaL    0    0    0    0
+ VAl    0    0    0    0
+ VAL   12    0    0    0
+total nber OK=                                  32
+total nber chain OK but incompete sidechain=     0
+total nber residues with inclomplet chain=       0
+total nber missing residues=                     0
+total nber initail HYD term residues=            0
+nber new templates=                              0
+nber residues with added hydrogens=              0
+nber residues with added heavy atoms=            0
+nber atoms with more cons than in template=      0
+nber H length errors=                            5
+  WRITING: 2y3lc3oec.hin                           
+ natoms,nimages,nmol=         444          54           4

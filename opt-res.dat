@@ -1,0 +1,4 @@
+2y3lc
+0   '-1 for local H only, 0 for H only, 1 for X only, 2 for full opt'
+4   '1= cofactors, 2= phytyl chains, 3= even res, 4= odd res, 5= waters'
+8  'nber of processors to use'

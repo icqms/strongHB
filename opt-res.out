@@ -1,0 +1,346 @@
+  READING: 2y3lc.hin                                                                       
+ number of atoms=    444
+ number of mols=     4
+ number of res=     32
+ number of charged res=   8 tot charge=  -0.000000 without roundoff=   0
+ nber images=   54 inscribed radius=   4.735
+  sel atoms=           0
+ selecting res MeT 1 - A      1   1 q= 1.000 image=  1
+ selecting res VAL 2 - A      2   1 q= 0.000 image=  1
+ selecting res GLY 3 - A      3   1 q= 0.000 image=  1
+ selecting res VAL 6 - C      6   3 q= 0.000 image=  1
+ selecting res ILE 7 - C      7   3 q=-0.000 image=  1
+ selecting res ALa 8 - C      8   3 q=-1.000 image=  1
+ selecting res MeT 1 - G      1 120 q= 1.000 image=  1
+ selecting res ILE 7 - C      7 179 q=-0.000 image=  1
+ selecting res ALa 8 - C      8 179 q=-1.000 image=  1
+ selecting res ALa 8 - B      8 190 q=-1.000 image=  1
+ total  number of atoms=         178
+ frozen number of atoms=         167
+ opt    number of atoms=          11
+ high   number of atoms=          40
+ link   number of atoms=           0
+ High-level charge=           1
+ total charge=          -1
+ total nberel=         648
+ multiplicity=           1
+ xyz range=  13.477  19.416  10.016 vol=   2621.
+ selecting res GLY 3 - A      3   1 q= 0.000 image=  1
+ selecting res MeT 1 - A      1   1 q= 1.000 image=  1
+ selecting res VAL 2 - A      2   1 q= 0.000 image=  1
+ selecting res GLY 4 - A      4   1 q= 0.000 image=  1
+ selecting res VAL 5 - A      5   1 q= 0.000 image=  1
+ selecting res GLY 4 - C      4   3 q= 0.000 image=  1
+ selecting res VAL 5 - C      5   3 q= 0.000 image=  1
+ selecting res VAL 6 - C      6   3 q= 0.000 image=  1
+ selecting res VAL 2 - B      2 114 q= 0.000 image=  1
+ selecting res VAL 5 - C      5 179 q= 0.000 image=  1
+ selecting res VAL 6 - C      6 179 q= 0.000 image=  1
+ selecting res ILE 7 - C      7 179 q=-0.000 image=  1
+ selecting res ILE 7 - G      7 188 q=-0.000 image=  1
+ total  number of atoms=         244
+ frozen number of atoms=         241
+ opt    number of atoms=           3
+ high   number of atoms=          64
+ link   number of atoms=           0
+ High-level charge=           0
+ total charge=           1
+ total nberel=         840
+ multiplicity=           1
+ xyz range=  13.277  17.185  18.014 vol=   4110.
+ selecting res VAL 5 - A      5   1 q= 0.000 image=  1
+ selecting res GLY 3 - A      3   1 q= 0.000 image=  1
+ selecting res GLY 4 - A      4   1 q= 0.000 image=  1
+ selecting res VAL 6 - A      6   1 q= 0.000 image=  1
+ selecting res ILE 7 - A      7   1 q=-0.000 image=  1
+ selecting res ILE 7 - B      7   2 q=-0.000 image=  1
+ selecting res VAL 2 - C      2   3 q= 0.000 image=  1
+ selecting res GLY 3 - C      3   3 q= 0.000 image=  1
+ selecting res GLY 4 - C      4   3 q= 0.000 image=  1
+ selecting res VAL 2 - G      2   4 q= 0.000 image=  1
+ selecting res VAL 2 - B      2 114 q= 0.000 image=  1
+ selecting res GLY 3 - C      3 179 q= 0.000 image=  1
+ selecting res GLY 4 - C      4 179 q= 0.000 image=  1
+ selecting res VAL 5 - G      5 188 q= 0.000 image=  1
+ selecting res ILE 7 - G      7 188 q=-0.000 image=  1
+ selecting res VAL 6 - G      6 188 q= 0.000 image=  1
+ total  number of atoms=         295
+ frozen number of atoms=         286
+ opt    number of atoms=           9
+ high   number of atoms=          66
+ link   number of atoms=           0
+ High-level charge=           0
+ total charge=           0
+ total nberel=        1024
+ multiplicity=           1
+ xyz range=  12.883  20.571  20.041 vol=   5311.
+ selecting res ILE 7 - A      7   1 q=-0.000 image=  1
+ selecting res VAL 5 - A      5   1 q= 0.000 image=  1
+ selecting res VAL 6 - A      6   1 q= 0.000 image=  1
+ selecting res ALa 8 - A      8   1 q=-1.000 image=  1
+ selecting res MeT 1 - C      1   3 q= 1.000 image=  1
+ selecting res VAL 2 - C      2   3 q= 0.000 image=  1
+ selecting res GLY 4 - B      4 114 q= 0.000 image=  1
+ selecting res VAL 5 - B      5 114 q= 0.000 image=  1
+ selecting res VAL 6 - B      6 114 q= 0.000 image=  1
+ selecting res MeT 1 - C      1 179 q= 1.000 image=  1
+ selecting res VAL 2 - C      2 179 q= 0.000 image=  1
+ selecting res MeT 1 - G      1 188 q= 1.000 image=  1
+ selecting res GLY 3 - G      3 188 q= 0.000 image=  1
+ selecting res GLY 4 - G      4 188 q= 0.000 image=  1
+ selecting res VAL 5 - G      5 188 q= 0.000 image=  1
+ selecting res VAL 2 - G      2 188 q= 0.000 image=  1
+ total  number of atoms=         272
+ frozen number of atoms=         261
+ opt    number of atoms=          11
+ high   number of atoms=          76
+ link   number of atoms=           0
+ High-level charge=          -1
+ total charge=           2
+ total nberel=         958
+ multiplicity=           1
+ xyz range=  12.883  17.241  21.948 vol=   4875.
+ selecting res MeT 1 - B      1   2 q= 1.000 image=  1
+ selecting res VAL 2 - B      2   2 q= 0.000 image=  1
+ selecting res GLY 3 - B      3   2 q= 0.000 image=  1
+ selecting res VAL 6 - G      6   4 q= 0.000 image=  1
+ selecting res ILE 7 - G      7   4 q=-0.000 image=  1
+ selecting res ALa 8 - G      8   4 q=-1.000 image=  1
+ selecting res MeT 1 - C      1 119 q= 1.000 image=  1
+ selecting res ILE 7 - G      7 180 q=-0.000 image=  1
+ selecting res ALa 8 - G      8 180 q=-1.000 image=  1
+ selecting res ALa 8 - A      8 189 q=-1.000 image=  1
+ selecting res ALa 8 - B      8 190 q=-1.000 image=  1
+ total  number of atoms=         195
+ frozen number of atoms=         184
+ opt    number of atoms=          11
+ high   number of atoms=          40
+ link   number of atoms=           0
+ High-level charge=           1
+ total charge=          -2
+ total nberel=         718
+ multiplicity=           1
+ xyz range=  13.985  19.103  15.293 vol=   4085.
+ selecting res GLY 3 - B      3   2 q= 0.000 image=  1
+ selecting res MeT 1 - B      1   2 q= 1.000 image=  1
+ selecting res VAL 2 - B      2   2 q= 0.000 image=  1
+ selecting res GLY 4 - B      4   2 q= 0.000 image=  1
+ selecting res VAL 5 - B      5   2 q= 0.000 image=  1
+ selecting res GLY 4 - G      4   4 q= 0.000 image=  1
+ selecting res VAL 5 - G      5   4 q= 0.000 image=  1
+ selecting res VAL 6 - G      6   4 q= 0.000 image=  1
+ selecting res ILE 7 - C      7 179 q=-0.000 image=  1
+ selecting res VAL 5 - G      5 180 q= 0.000 image=  1
+ selecting res VAL 6 - G      6 180 q= 0.000 image=  1
+ total  number of atoms=         197
+ frozen number of atoms=         194
+ opt    number of atoms=           3
+ high   number of atoms=          64
+ link   number of atoms=           0
+ High-level charge=           0
+ total charge=           1
+ total nberel=         684
+ multiplicity=           1
+ xyz range=  13.434  17.832  16.999 vol=   4072.
+ selecting res VAL 5 - B      5   2 q= 0.000 image=  1
+ selecting res VAL 2 - A      2   1 q= 0.000 image=  1
+ selecting res GLY 3 - B      3   2 q= 0.000 image=  1
+ selecting res GLY 4 - B      4   2 q= 0.000 image=  1
+ selecting res VAL 6 - B      6   2 q= 0.000 image=  1
+ selecting res ILE 7 - B      7   2 q=-0.000 image=  1
+ selecting res VAL 2 - G      2   4 q= 0.000 image=  1
+ selecting res GLY 3 - G      3   4 q= 0.000 image=  1
+ selecting res GLY 4 - G      4   4 q= 0.000 image=  1
+ selecting res ILE 7 - A      7 101 q=-0.000 image=  1
+ selecting res VAL 2 - C      2 103 q= 0.000 image=  1
+ selecting res VAL 5 - C      5 179 q= 0.000 image=  1
+ selecting res ILE 7 - C      7 179 q=-0.000 image=  1
+ selecting res GLY 3 - G      3 180 q= 0.000 image=  1
+ selecting res GLY 4 - G      4 180 q= 0.000 image=  1
+ selecting res VAL 6 - C      6 179 q= 0.000 image=  1
+ total  number of atoms=         295
+ frozen number of atoms=         286
+ opt    number of atoms=           9
+ high   number of atoms=          66
+ link   number of atoms=           0
+ High-level charge=           0
+ total charge=           0
+ total nberel=        1024
+ multiplicity=           1
+ xyz range=  12.961  20.638  20.158 vol=   5392.
+ selecting res ILE 7 - B      7   2 q=-0.000 image=  1
+ selecting res GLY 4 - A      4   1 q= 0.000 image=  1
+ selecting res VAL 5 - A      5   1 q= 0.000 image=  1
+ selecting res VAL 6 - A      6   1 q= 0.000 image=  1
+ selecting res VAL 5 - B      5   2 q= 0.000 image=  1
+ selecting res VAL 6 - B      6   2 q= 0.000 image=  1
+ selecting res ALa 8 - B      8   2 q=-1.000 image=  1
+ selecting res MeT 1 - G      1   4 q= 1.000 image=  1
+ selecting res VAL 2 - G      2   4 q= 0.000 image=  1
+ selecting res GLY 3 - C      3 179 q= 0.000 image=  1
+ selecting res GLY 4 - C      4 179 q= 0.000 image=  1
+ selecting res VAL 5 - C      5 179 q= 0.000 image=  1
+ selecting res MeT 1 - G      1 180 q= 1.000 image=  1
+ selecting res VAL 2 - G      2 180 q= 0.000 image=  1
+ total  number of atoms=         243
+ frozen number of atoms=         232
+ opt    number of atoms=          11
+ high   number of atoms=          76
+ link   number of atoms=           0
+ High-level charge=          -1
+ total charge=           1
+ total nberel=         856
+ multiplicity=           1
+ xyz range=  12.961  16.903  19.995 vol=   4380.
+ selecting res GLY 3 - C      3   3 q= 0.000 image=  1
+ selecting res VAL 5 - A      5   1 q= 0.000 image=  1
+ selecting res VAL 6 - A      6   1 q= 0.000 image=  1
+ selecting res MeT 1 - C      1   3 q= 1.000 image=  1
+ selecting res VAL 2 - C      2   3 q= 0.000 image=  1
+ selecting res GLY 4 - C      4   3 q= 0.000 image=  1
+ selecting res VAL 5 - C      5   3 q= 0.000 image=  1
+ selecting res VAL 2 - G      2   4 q= 0.000 image=  1
+ selecting res GLY 4 - A      4  37 q= 0.000 image=  1
+ selecting res VAL 5 - A      5  37 q= 0.000 image=  1
+ selecting res VAL 6 - A      6  37 q= 0.000 image=  1
+ selecting res ILE 7 - B      7  38 q=-0.000 image=  1
+ selecting res VAL 5 - G      5 116 q= 0.000 image=  1
+ total  number of atoms=         253
+ frozen number of atoms=         250
+ opt    number of atoms=           3
+ high   number of atoms=          64
+ link   number of atoms=           0
+ High-level charge=           0
+ total charge=           1
+ total nberel=         872
+ multiplicity=           1
+ xyz range=  13.816  16.429  20.041 vol=   4549.
+ selecting res VAL 5 - C      5   3 q= 0.000 image=  1
+ selecting res GLY 3 - A      3   1 q= 0.000 image=  1
+ selecting res GLY 4 - A      4   1 q= 0.000 image=  1
+ selecting res GLY 3 - C      3   3 q= 0.000 image=  1
+ selecting res GLY 4 - C      4   3 q= 0.000 image=  1
+ selecting res VAL 6 - C      6   3 q= 0.000 image=  1
+ selecting res ILE 7 - C      7   3 q=-0.000 image=  1
+ selecting res VAL 2 - G      2   4 q= 0.000 image=  1
+ selecting res GLY 3 - G      3   4 q= 0.000 image=  1
+ selecting res GLY 4 - G      4   4 q= 0.000 image=  1
+ selecting res VAL 2 - A      2  37 q= 0.000 image=  1
+ selecting res GLY 3 - A      3  37 q= 0.000 image=  1
+ selecting res GLY 4 - A      4  37 q= 0.000 image=  1
+ selecting res VAL 5 - B      5  38 q= 0.000 image=  1
+ selecting res VAL 6 - B      6  38 q= 0.000 image=  1
+ selecting res ILE 7 - B      7  38 q=-0.000 image=  1
+ selecting res VAL 2 - B      2 114 q= 0.000 image=  1
+ selecting res ILE 7 - G      7 116 q=-0.000 image=  1
+ total  number of atoms=         309
+ frozen number of atoms=         300
+ opt    number of atoms=           9
+ high   number of atoms=          66
+ link   number of atoms=           0
+ High-level charge=           0
+ total charge=           0
+ total nberel=        1084
+ multiplicity=           1
+ xyz range=  12.721  20.638  20.557 vol=   5397.
+ selecting res ILE 7 - C      7   3 q=-0.000 image=  1
+ selecting res MeT 1 - A      1   1 q= 1.000 image=  1
+ selecting res VAL 2 - A      2   1 q= 0.000 image=  1
+ selecting res VAL 5 - C      5   3 q= 0.000 image=  1
+ selecting res VAL 6 - C      6   3 q= 0.000 image=  1
+ selecting res ALa 8 - C      8   3 q=-1.000 image=  1
+ selecting res VAL 5 - G      5   4 q= 0.000 image=  1
+ selecting res VAL 6 - G      6   4 q= 0.000 image=  1
+ selecting res MeT 1 - A      1  37 q= 1.000 image=  1
+ selecting res VAL 2 - A      2  37 q= 0.000 image=  1
+ selecting res GLY 3 - A      3  37 q= 0.000 image=  1
+ selecting res GLY 3 - B      3  38 q= 0.000 image=  1
+ selecting res GLY 4 - B      4  38 q= 0.000 image=  1
+ selecting res VAL 5 - B      5  38 q= 0.000 image=  1
+ total  number of atoms=         243
+ frozen number of atoms=         232
+ opt    number of atoms=          11
+ high   number of atoms=          75
+ link   number of atoms=           0
+ High-level charge=          -1
+ total charge=           1
+ total nberel=         856
+ multiplicity=           1
+ xyz range=  12.864  17.053  20.276 vol=   4448.
+ selecting res GLY 3 - G      3   4 q= 0.000 image=  1
+ selecting res VAL 5 - B      5   2 q= 0.000 image=  1
+ selecting res VAL 6 - B      6   2 q= 0.000 image=  1
+ selecting res VAL 5 - C      5   3 q= 0.000 image=  1
+ selecting res MeT 1 - G      1   4 q= 1.000 image=  1
+ selecting res VAL 2 - G      2   4 q= 0.000 image=  1
+ selecting res GLY 4 - G      4   4 q= 0.000 image=  1
+ selecting res VAL 5 - G      5   4 q= 0.000 image=  1
+ selecting res ILE 7 - A      7  29 q=-0.000 image=  1
+ selecting res GLY 4 - B      4  38 q= 0.000 image=  1
+ selecting res VAL 5 - B      5  38 q= 0.000 image=  1
+ selecting res VAL 6 - B      6  38 q= 0.000 image=  1
+ selecting res VAL 2 - C      2 103 q= 0.000 image=  1
+ total  number of atoms=         253
+ frozen number of atoms=         250
+ opt    number of atoms=           3
+ high   number of atoms=          64
+ link   number of atoms=           0
+ High-level charge=           0
+ total charge=           1
+ total nberel=         872
+ multiplicity=           1
+ xyz range=  13.913  16.308  20.158 vol=   4574.
+ selecting res VAL 5 - G      5   4 q= 0.000 image=  1
+ selecting res GLY 3 - B      3   2 q= 0.000 image=  1
+ selecting res GLY 4 - B      4   2 q= 0.000 image=  1
+ selecting res ILE 7 - C      7   3 q=-0.000 image=  1
+ selecting res GLY 3 - G      3   4 q= 0.000 image=  1
+ selecting res GLY 4 - G      4   4 q= 0.000 image=  1
+ selecting res VAL 6 - G      6   4 q= 0.000 image=  1
+ selecting res ILE 7 - G      7   4 q=-0.000 image=  1
+ selecting res VAL 5 - A      5  29 q= 0.000 image=  1
+ selecting res VAL 6 - A      6  29 q= 0.000 image=  1
+ selecting res ILE 7 - A      7  29 q=-0.000 image=  1
+ selecting res VAL 2 - B      2  38 q= 0.000 image=  1
+ selecting res GLY 3 - B      3  38 q= 0.000 image=  1
+ selecting res GLY 4 - B      4  38 q= 0.000 image=  1
+ selecting res VAL 2 - C      2 103 q= 0.000 image=  1
+ selecting res GLY 3 - C      3 103 q= 0.000 image=  1
+ selecting res GLY 4 - C      4 103 q= 0.000 image=  1
+ total  number of atoms=         281
+ frozen number of atoms=         272
+ opt    number of atoms=           9
+ high   number of atoms=          66
+ link   number of atoms=           0
+ High-level charge=           0
+ total charge=           0
+ total nberel=         990
+ multiplicity=           1
+ xyz range=  12.934  20.520  20.234 vol=   5370.
+ selecting res ILE 7 - G      7   4 q=-0.000 image=  1
+ selecting res MeT 1 - B      1   2 q= 1.000 image=  1
+ selecting res VAL 2 - B      2   2 q= 0.000 image=  1
+ selecting res VAL 5 - G      5   4 q= 0.000 image=  1
+ selecting res VAL 6 - G      6   4 q= 0.000 image=  1
+ selecting res ALa 8 - G      8   4 q=-1.000 image=  1
+ selecting res GLY 3 - A      3  29 q= 0.000 image=  1
+ selecting res GLY 4 - A      4  29 q= 0.000 image=  1
+ selecting res VAL 5 - A      5  29 q= 0.000 image=  1
+ selecting res MeT 1 - B      1  38 q= 1.000 image=  1
+ selecting res VAL 2 - B      2  38 q= 0.000 image=  1
+ selecting res VAL 5 - C      5 103 q= 0.000 image=  1
+ selecting res VAL 6 - C      6 103 q= 0.000 image=  1
+ total  number of atoms=         236
+ frozen number of atoms=         225
+ opt    number of atoms=          11
+ high   number of atoms=          76
+ link   number of atoms=           0
+ High-level charge=          -1
+ total charge=           1
+ total nberel=         826
+ multiplicity=           1
+ xyz range=  12.934  17.964  19.935 vol=   4632.
+ nber jobs actually generated=          14
+ max nber atoms in any calc=         309
+ max nber high-level atoms =          76
+ max nber point charges    =           0

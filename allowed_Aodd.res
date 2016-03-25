@@ -1,0 +1,4 @@
+MET1-A
+GLY3-A
+VAL5-A
+ILE7-A
