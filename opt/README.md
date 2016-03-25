@@ -21,9 +21,9 @@ This is an example:
  - 
  A = chain name
 
- 1 = need to check, unclear at the moment 
+ 1 = molecule index after expansion 
  
- 3 = need to check, unclear at the moment
+ 3 = residue index after expansion
  
  
  
