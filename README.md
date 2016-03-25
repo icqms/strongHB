@@ -11,4 +11,12 @@
 
 these calcs are relevant to JACS article 10.1021/jacs.5b11012  on strong hydrogen bondin
 
-QR is needed
+readhin.for 
+ -reads hin file
+ -writes hin file
+ -pbc 
+ -expand copies
+ -add hydrogen atoms
+ -delete residues
+ -copy residues
+ 
