@@ -20,3 +20,11 @@ readhin.for
  -delete residues
  -copy residues
  
+template.for
+  -deals with templates, only used by checkres.for
+  
+checkres.for
+  -check for errors in the pdb.
+ 
+reenter.for
+ -bring back all the bits from g09.log files - into an updated hin file.
