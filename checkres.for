@@ -662,16 +662,21 @@ c	  **** atom not found ****
 c	      **** add missing hydrogens, kdc is default heavy atom, kc real one ****
 	      kdc= dicon(1,j,it)
 	      kc= match(kdc)
-	      if (kc.gt.0) then
-	        write (6,*) 'missing ',j,dname(j,it),' on ',name(it),' heavy atom ',dname(kdc,it),kdc,kc
-		do kk= 1,ndef(it)
-		  write (6,*) kk,dname(kk,it)
-		end do
-		do kk= iares(ires,imol),jares(ires,imol)
-		  write (6,'(i3,a,i3,6i6)') kk,atname(kk),ncon(kk),(icon(kkk,kk),kkk=1,ncon(kk))
-		end do
-	        iresend= jares(ires,imol)
-		if (atname(kc).eq.'    N' .and. ncon(kc).eq.1) then
+C	      if (kc.gt.0) then
+C	        write (6,*) 'missing ',j,dname(j,it),' on ',name(it),' heavy atom ',dname(kdc,it),kdc,kc
+C		do kk= 1,ndef(it)
+C		  write (6,*) kk,dname(kk,it)
+C		end do
+C		do kk= iares(ires,imol),jares(ires,imol)
+C		end do
+C	        iresend= jares(ires,imol)
+c **** BUG IN 2013 VERSION **** MISSING NEXT 5 LINES giving bad geom of N terminal res ******
+		if (atname(kc).eq.'    N' .and. dncon(kdc,it).eq.4) then
+		  iadd= dncon(kdc,it) - ncon(kc)
+	          call hadd (iresend,iadd,1)
+		  call hadda1 (iresend,kc,3,1.01d0,109.47d0)
+		  if (iadd.ne.1) call hdel (iresend-iadd+1,iadd-1)
+		else if (atname(kc).eq.'    N' .and. ncon(kc).eq.1) then
 	          call hadd (iresend,2,1)
 		  call hadda1 (iresend,kc,2,1.01d0,120.d0)
 		  call hdel (iresend,1)
