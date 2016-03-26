@@ -34,5 +34,6 @@ reenter.for
 ```ifort readhin.obj checkres.for -o checkres```
 
 //execute
+
 ```./checkres 2y3l```  //this will make a 2y3lc.hin file
 
