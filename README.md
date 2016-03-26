@@ -30,10 +30,9 @@ reenter.for
  -bring back all the bits from g09.log files - into an updated hin file.
 
 //example to compile
+
 ```ifort readhin.obj checkres.for -o checkres```
 
 //execute
-./checkres 2y3l
-//
-```this will make a 2y3lc.hin file```
+```./checkres 2y3l```  //this will make a 2y3lc.hin file
 
