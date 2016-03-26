@@ -9,7 +9,7 @@
 
 4) reenter   collects outputs from calcs initiated by opt-res and updates hin file
 
-these calcs are relevant to JACS article 10.1021/jacs.5b11012  on strong hydrogen bondin
+these calcs are relevant to JACS article 10.1021/jacs.5b11012  on strong hydrogen bonding
 
 readhin.for 
  -reads hin file
